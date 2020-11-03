@@ -1,6 +1,6 @@
 <meta charset="utf-8">
-
 {% include seo.html %}
+
 
 <!-- <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed"> -->
 <!-- <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed"> -->
@@ -29,11 +29,6 @@
     }
   </style>
 <![endif]-->
-
-    <a href="" id="authorize"><span class="fab fa-fw fa-twitch"></span>Login with Twitch.tv</a>
-    <div id="access_token"></div>
-    <div id="user_data"></div>
-    <script src="../assets/js/twitch.js"></script>
 
 {% if site.head_scripts %}
 {% for script in site.head_scripts %}
