@@ -1,5 +1,5 @@
 var client_id = 'nhfimyu99tp77004p89k1kfemcyj59';
-var redirect = 'https://www.pumper.live/assets/js/';
+var redirect = 'https://www.pumper.live/';
 
 document.getElementById('authorize').setAttribute('href', 'https://id.twitch.tv/oauth2/authorize?client_id=' + client_id + '&redirect_uri=' + encodeURIComponent(redirect) + '&response_type=token')
 document.getElementById('access_token').textContent = '';
