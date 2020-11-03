@@ -25,5 +25,6 @@ gem "tzinfo-data"
 #   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
+gem "activesupport", ">= 4.1.11"
 group :jekyll_plugins do
 end
