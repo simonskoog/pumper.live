@@ -10,8 +10,8 @@ actions:
 feature_row:
   - excerpt: "Abernathi - Officer"
     stream: "abernathi"
-
-
+  - excerpt: "Smiley - Mage"
+    stream: "smilekyth"
 ---
 
 {% include feature_row id="intro" type="center" %}
