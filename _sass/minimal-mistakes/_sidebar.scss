@@ -18,7 +18,7 @@
 
   @include breakpoint($large) {
     float: left;
-    width: calc(#{$right-sidebar-width-narrow} - 1em);
+    width: calc(#{$right-sidebar-width-narrow} - em);
     opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
@@ -36,9 +36,9 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    width: calc(#{$right-sidebar-width} - 1em);
-  }
+//  @include breakpoint($x-large) {
+//    width: calc(#{$right-sidebar-width} - 1em);
+//  }
 
   > * {
     margin-top: 1em;
@@ -92,10 +92,10 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-    margin-right: -1 * $right-sidebar-width;
-  }
+//  @include breakpoint($x-large) {
+//    width: $right-sidebar-width;
+//    margin-right: -1 * $right-sidebar-width;
+//  }
 }
 
 .splash .sidebar__right {
@@ -105,9 +105,9 @@
     margin-right: 0;
   }
 
-  @include breakpoint($x-large) {
-    margin-right: 0;
-  }
+//  @include breakpoint($x-large) {
+//    margin-right: 0;
+//  }
 }
 
 /*
@@ -263,7 +263,7 @@
     content: "";
     position: absolute;
     top: -11px;
-    left: calc(50% - 10px);
+//    left: calc(50% - 10px);
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
@@ -280,7 +280,7 @@
     content: "";
     position: absolute;
     top: -10px;
-    left: calc(50% - 10px);
+//    left: calc(50% - 10px);
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
@@ -338,9 +338,9 @@
     }
   }
 
-  @include breakpoint($x-large) {
-    width: initial;
-    margin-right: initial;
-  }
+//  @include breakpoint($x-large) {
+//    width: initial;
+//    margin-right: initial;
+//  }
 }
 

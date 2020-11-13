@@ -24,7 +24,7 @@ if (document.location.hash) {
       )
          .then(resp => resp.json())
          .then(resp => {
-            document.getElementById('user_data').innerHTML = '<p>Your Public Twitch Profile from Helix:</p>';
+            document.getElementById('user_data').innerHTML = '<p>Your Public Twitch Profile from Twitch (Features under development):</p>';
             var table = document.createElement('table');
             document.getElementById('user_data').append(table);
             for (var key in resp.data[0]) {

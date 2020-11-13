@@ -1,12 +1,31 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+navlist:
+  - title    : General
+    children :
+      - title: "Top Streams"
+        url  : /top/
+      - title: "Guild Streams"
+        url  : /guild/
+
+  - title    : Raids
+    children :
+      - title: "Raid 1"
+        url  : /raid1/
+      - title: "Raid 2"
+        url  : /raid2/
+      - title: "Raid 3"
+        url  : /raid3/
+      - title: "Raid 5"
+        url  : /raid5/
+      - title: "Raid 6"
+        url  : /raid6/
+      - title: "Surplus"
+        url  : /surp/
+
+  - title    : Non-guild
+    children :
+      - title: "Faerlina"
+        url  : /faerlina/
+      - title: "Variety"
+        url  : /variety/
