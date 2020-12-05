@@ -10,7 +10,7 @@ actions:
 feature_row:
   - excerpt: "Candlejack"
     stream: "candlejacktv"
-  - excerpt: "SoftU"
+  - excerpt: "Softu"
     stream: "softu"
 ---
 
