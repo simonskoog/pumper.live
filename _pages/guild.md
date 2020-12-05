@@ -20,6 +20,20 @@ feature_row:
     stream: "swiftnezz"
   - excerpt: "Peaceblade - Paladin"
     stream: "peacebladetv"
+  - excerpt: "Candlejack"
+    stream: "candlejacktv"
+  - excerpt: "Softu"
+    stream: "softu"
+  - excerpt: "Kryde - Main Tank"
+    stream: "kryde"
+  - excerpt: "Fooch - Warlock"
+    stream: "foochtv"
+  - excerpt: "Threeospades - Mage"
+    stream: "threeospades"
+  - excerpt: "Irishboomie - Priest"
+    stream: "irishboomie"
+  - excerpt: "Smiley - Mage"
+    stream: "smilekyth"
 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
