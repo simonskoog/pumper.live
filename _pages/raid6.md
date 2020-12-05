@@ -12,10 +12,12 @@ feature_row:
     stream: "sillyanne"
   - excerpt: "Abernathi - Officer"
     stream: "abernathi"
+  - excerpt: "Logan - Priest"
+    stream: "loganheals"
+  - excerpt: "Hitchens - Shadow Priest"
+    stream: "hitchenstv
   - excerpt: "Swiftnezz - Mage"
     stream: "swiftnezz"
-  - excerpt: "Hitchens - Shadow Priest"
-    stream: "hitchenstv"
 
 ---
 
