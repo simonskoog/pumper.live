@@ -15,7 +15,7 @@ feature_row:
   - excerpt: "Logan - Priest"
     stream: "loganheals"
   - excerpt: "Hitchens - Shadow Priest"
-    stream: "hitchenstv
+    stream: "hitchenstv"
   - excerpt: "Swiftnezz - Mage"
     stream: "swiftnezz"
 
