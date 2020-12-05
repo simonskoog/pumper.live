@@ -10,12 +10,11 @@ actions:
 feature_row:
   - excerpt: "Esfand - Guild Master"
     stream: "esfandtv"
-  - excerpt: "Clovers - Officer"
-    stream: "sillyanne"
-  - excerpt: "Abernathi - Officer"
-    stream: "abernathi"
-
-
+  - excerpt: "Kryde - Main Tank"
+    stream: "kryde"
+- excerpt: "Fooch - Warlock"
+    stream: "foochtv"
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
