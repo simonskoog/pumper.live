@@ -12,6 +12,8 @@ feature_row:
     stream: "threeospades"
   - excerpt: "Irishboomie - Priest"
     stream: "irishboomie"
+  - excerpt: "Smiley - Mage"
+    stream: "smilekyth"
 
 ---
 
