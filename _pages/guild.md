@@ -20,6 +20,8 @@ feature_row:
     stream: "swiftnezz"
   - excerpt: "Peaceblade - Paladin"
     stream: "peacebladetv"
+
+feature_row:
   - excerpt: "Candlejack"
     stream: "candlejacktv"
   - excerpt: "Softu"
@@ -32,6 +34,8 @@ feature_row:
     stream: "threeospades"
   - excerpt: "Irishboomie - Priest"
     stream: "irishboomie"
+    
+feature_row:
   - excerpt: "Smiley - Mage"
     stream: "smilekyth"
 
