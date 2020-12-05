@@ -12,7 +12,7 @@ feature_row:
     stream: "esfandtv"
   - excerpt: "Kryde - Main Tank"
     stream: "kryde"
-- excerpt: "Fooch - Warlock"
+  - excerpt: "Fooch - Warlock"
     stream: "foochtv"
     
 ---
